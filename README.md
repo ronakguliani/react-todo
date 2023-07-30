@@ -5,7 +5,7 @@
 A simple React application where users can add tasks to a list and remove them. It also features a theme switcher, which lets users switch between a light and dark theme. The tasks and theme choice persist across page reloads using localStorage.
 
 
-### `npm start`
+## `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
